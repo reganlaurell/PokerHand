@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="tools/byte-buddy-1.9.10.jar"/>
+	<classpathentry kind="lib" path="tools/junit.jar"/>
+	<classpathentry kind="lib" path="tools/mockito-core-3.1.3.jar"/>
+	<classpathentry kind="lib" path="tools/objenesis-3.1.jar"/>
+	<classpathentry kind="lib" path="tools/org.hamcrest.core_1.3.0.v20180420-1519.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
